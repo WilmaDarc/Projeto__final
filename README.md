@@ -37,4 +37,4 @@ Matplotlib
 Seaborn
 ## Autora:
 **Por:**[Wilma Darc Alves de Farias](www.linkedin.com/in/wilma-farias-66a15962)<br>
-[![Render Button](render-button.png)](https://segmentacao-de-clientes-utilizando-o-rfv.onrender.com)
+[![linkedin Button](linkedin.png)](https://(www.linkedin.com/in/wilma-farias-66a15962)<br>)
